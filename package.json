@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-testing-bug",
+  "version": "1.0.0",
+  "description": "demonstrate regression between RxJS 2.3.22 -> 2.3.23 -> 2.3.24",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "rx": "2.3.23"
+  }
+}
